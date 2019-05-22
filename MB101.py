@@ -20,7 +20,7 @@ timeout = 1 # where to get it from?
 
 while start==True:
     
-    print("starting version 1.1.6...")
+    print("starting version 1.1.7...")
     try:
         minimalmodbus.BAUDRATE = baudrate
         minimalmodbus.TIMEOUT = timeout
